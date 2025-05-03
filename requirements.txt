@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+opencv-python-headless  # replaces opencv-python for headless (server) environments
+easyocr
+pytesseract
+Flask==2.3.3
+gTTS==2.5.1
+numpy>=1.23  # compatible with Python 3.10–3.12
+gunicorn==21.2.0
+torch  # Let pip fetch the right version for your platform
